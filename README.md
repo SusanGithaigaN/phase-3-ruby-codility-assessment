@@ -24,8 +24,8 @@ In fact, the word if and the character ? are not allowed in your code.
 #### BDD (Behavior Driven Development)
 
 
-
 #### Pseudocode
+
 
 #### Code
 The code is available in 01_challenge_1.rb
