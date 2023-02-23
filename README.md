@@ -32,7 +32,7 @@ In fact, the word if and the character ? are not allowed in your code.
 
 **Given:** two numbers
 **When:** a - b == 0
-**Then:** a is equal to than b
+**Then:** a is equal to b
 
 #### Pseudocode
 1.Accept two numbers a,b(compare_numbers)
