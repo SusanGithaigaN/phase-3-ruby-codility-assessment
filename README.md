@@ -22,17 +22,17 @@ You cannot use if statements, and you cannot use the ternary operator ?
 In fact, the word if and the character ? are not allowed in your code.
 
 #### BDD (Behavior Driven Development)
-**Given:** two numbers
-**When:** a - b > 0
-**Then:** a is greater than b
+**Given:** two numbers.
+**When:** a - b > 0.
+**Then:** a is greater than b.
 
-**Given:** two numbers
-**When:** a - b < 0
-**Then:** a is less than b
+**Given:** two numbers.
+**When:** a - b < 0.
+**Then:** a is less than b.
 
-**Given:** two numbers
-**When:** a - b == 0
-**Then:** a is equal to b
+**Given:** two numbers.
+**When:** a - b == 0.
+**Then:** a is equal to b.
 
 #### Pseudocode
 1.Accept two numbers a,b(compare_numbers)
