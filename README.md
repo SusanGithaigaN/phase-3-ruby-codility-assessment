@@ -22,10 +22,25 @@ You cannot use if statements, and you cannot use the ternary operator ?
 In fact, the word if and the character ? are not allowed in your code.
 
 #### BDD (Behavior Driven Development)
+**Given:** two numbers
+**When:** a - b > 0
+**Then:** a is greater than b
 
+**Given:** two numbers
+**When:** a - b < 0
+**Then:** a is less than b
+
+**Given:** two numbers
+**When:** a - b == 0
+**Then:** a is equal to than b
 
 #### Pseudocode
-
+1.Accept two numbers a,b(compare_numbers)
+2. Calculate difference: a-b
+3. When a-b > 0: return a is greater than = greater
+4. When a-b < 0: return a is less than b = smaller
+5. When a-b == 0: return a is equal to b = equal_to
+6. Output result using string interpolation:
 
 #### Code
 The code is available in 01_challenge_1.rb
