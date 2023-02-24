@@ -77,9 +77,9 @@ Count the number of occurrences of each character and return it as a (list of ar
 #### Pseudocode
 1. Define  #character_counter  
 2. Store character counts in hash  
-3. Create empty arrat to store the result  
-4.Loop through characters   
-5.When character is not in hash, add it with count of 1, else increment count by 1  
-6.Loop through the characters in the string again  
-7.if character is not processed, add it's count to the result  
+3. Create empty array to store the result.  
+4. Loop through characters.  
+5. When character is not in hash, add it with count of 1, else increment count by 1  
+6.Loop through the characters in the string again   
+7. if character is not processed, add it's count to the result  
 8. Return the resulting array  
