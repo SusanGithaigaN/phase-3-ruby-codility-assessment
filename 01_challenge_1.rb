@@ -9,3 +9,4 @@ end
 puts compare_numbers(5,4)
 puts compare_numbers(-4,-7)
 puts compare_numbers(2,2)
+puts compare_numbers(2,7)
