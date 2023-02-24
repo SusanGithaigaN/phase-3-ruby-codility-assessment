@@ -41,12 +41,12 @@ In fact, the word if and the character ? are not allowed in your code.
 
 
 #### Pseudocode
-1.Accept two numbers a,b(compare_numbers)
-2. Calculate difference: a-b
-3. When a-b > 0: return a is greater than = greater
-4. When a-b < 0: return a is less than b = smaller
-5. When a-b == 0: return a is equal to b = equal_to
-6. Output result using string interpolation:
+1.Accept two numbers a,b(compare_numbers)  
+2. Calculate difference: a-b  
+3. When a-b > 0: return a is greater than = greater  
+4. When a-b < 0: return a is less than b = smaller  
+5. When a-b == 0: return a is equal to b = equal_to  
+6. Output result using string interpolation:  
 
 #### Code
 The code is available in 01_challenge_1.rb
@@ -59,9 +59,9 @@ The code is available in 01_challenge_1.rb
 Count the number of occurrences of each character and return it as a (list of arrays) in order of appearance. For empty output return (an empty list).
 
 #### BDD (Behavior Driven Development)
-**Given:** 
-**When:** 
-**Then:** 
+**Given:** String
+**When:** String present
+**Then:** Return character occurrence in string
 
 ##### Example 1
 **Given** "abracadabra"
@@ -75,8 +75,8 @@ Count the number of occurrences of each character and return it as a (list of ar
 
 
 #### Pseudocode
-1. Define  #character_counter
-2. Store character counts in hash 
+1. Define  #character_counter  
+2. Store character counts in hash  
 3. Create empty arrat to store the result
 4.Loop through characters 
 5.When character is not in hash, add it with count of 1, else increment count by 1
